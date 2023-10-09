@@ -1,1 +1,205 @@
-dm1lc3M6Ly9ldzBLSUNBaWRpSTZJQ0l5SWl3TkNpQWdJbkJ6SWpvZ0l1YVdzT1dLb09XZG9lS1hobE5ISURBeElPbXJtT21BbnlBeDVZQ041NDZISWl3TkNpQWdJbUZrWkNJNklDSnphR0Z1WjJoaGFTMWpiakl0Ym1GMExtSmhhWEJwWVc4dVpHVWlMQTBLSUNBaWNHOXlkQ0k2SUNJeU5UQTBNaUlzRFFvZ0lDSnBaQ0k2SUNJM1pXRTNORE13WVMwNU1ESmpMVE00WmpVdE9USmxOQzFsT0dZellXWTVOVEk1T0RnaUxBMEtJQ0FpWVdsa0lqb2dJaklpTEEwS0lDQWlibVYwSWpvZ0luZHpJaXdOQ2lBZ0luUjVjR1VpT2lBaWJtOXVaU0lzRFFvZ0lDSm9iM04wSWpvZ0ltRnFZWGd1WVhOd2JtVjBZMlJ1TG1OdmJTSXNEUW9nSUNKd1lYUm9Jam9nSWk4aUxBMEtJQ0FpZEd4eklqb2dJaUlOQ24wPQp2bWVzczovL2V3MEtJQ0FpZGlJNklDSXlJaXdOQ2lBZ0luQnpJam9nSXVhV3NPV0tvT1dkb2VLWGhsTkhJREF5SU9tcm1PbUFueUF4NVlDTjU0NkhJaXdOQ2lBZ0ltRmtaQ0k2SUNKemFHRnVaMmhoYVMxamJqSXRibUYwTG1KaGFYQnBZVzh1WkdVaUxBMEtJQ0FpY0c5eWRDSTZJQ0l5TlRBME15SXNEUW9nSUNKcFpDSTZJQ0kzWldFM05ETXdZUzA1TURKakxUTTRaalV0T1RKbE5DMWxPR1l6WVdZNU5USTVPRGdpTEEwS0lDQWlZV2xrSWpvZ0lqSWlMQTBLSUNBaWJtVjBJam9nSW5keklpd05DaUFnSW5SNWNHVWlPaUFpYm05dVpTSXNEUW9nSUNKb2IzTjBJam9nSW1GcVlYZ3VZWE53Ym1WMFkyUnVMbU52YlNJc0RRb2dJQ0p3WVhSb0lqb2dJaThpTEEwS0lDQWlkR3h6SWpvZ0lpSU5DbjA9CnZtZXNzOi8vZXcwS0lDQWlkaUk2SUNJeUlpd05DaUFnSW5Ceklqb2dJdWFXc09XS29PV2RvZUtYaGxOSElEQXpJT21ybU9tQW55QXg1WUNONTQ2SElpd05DaUFnSW1Ga1pDSTZJQ0p6YUdGdVoyaGhhUzFqYmpJdGJtRjBMbUpoYVhCcFlXOHVaR1VpTEEwS0lDQWljRzl5ZENJNklDSXlOVEEwTkNJc0RRb2dJQ0pwWkNJNklDSTNaV0UzTkRNd1lTMDVNREpqTFRNNFpqVXRPVEpsTkMxbE9HWXpZV1k1TlRJNU9EZ2lMQTBLSUNBaVlXbGtJam9nSWpJaUxBMEtJQ0FpYm1WMElqb2dJbmR6SWl3TkNpQWdJblI1Y0dVaU9pQWlibTl1WlNJc0RRb2dJQ0pvYjNOMElqb2dJbUZxWVhndVlYTndibVYwWTJSdUxtTnZiU0lzRFFvZ0lDSndZWFJvSWpvZ0lpOGlMQTBLSUNBaWRHeHpJam9nSWlJTkNuMD0Kdm1lc3M6Ly9ldzBLSUNBaWRpSTZJQ0l5SWl3TkNpQWdJbkJ6SWpvZ0l1YVdzT1dLb09XZG9lS1hobE5ISURBMElPbXJtT21BbnlBeDVZQ041NDZISWl3TkNpQWdJbUZrWkNJNklDSnphR0Z1WjJoaGFTMWpiakl0Ym1GMExtSmhhWEJwWVc4dVpHVWlMQTBLSUNBaWNHOXlkQ0k2SUNJeU5UQTBOU0lzRFFvZ0lDSnBaQ0k2SUNJM1pXRTNORE13WVMwNU1ESmpMVE00WmpVdE9USmxOQzFsT0dZellXWTVOVEk1T0RnaUxBMEtJQ0FpWVdsa0lqb2dJaklpTEEwS0lDQWlibVYwSWpvZ0luZHpJaXdOQ2lBZ0luUjVjR1VpT2lBaWJtOXVaU0lzRFFvZ0lDSm9iM04wSWpvZ0ltRnFZWGd1WVhOd2JtVjBZMlJ1TG1OdmJTSXNEUW9nSUNKd1lYUm9Jam9nSWk4aUxBMEtJQ0FpZEd4eklqb2dJaUlOQ24wPQp2bWVzczovL2V3MEtJQ0FpZGlJNklDSXlJaXdOQ2lBZ0luQnpJam9nSXVhWHBlYWNyT0tYaGtGWFV5QXdNU0JPWlhSbWJHbDRJREhsZ0kzbmpvY2lMQTBLSUNBaVlXUmtJam9nSW1GbVpqWTRZVEU1WW1VNE4yRmxPV1F4TG1GM2MyZHNiMkpoYkdGalkyVnNaWEpoZEc5eUxtTnZiU0lzRFFvZ0lDSndiM0owSWpvZ0lqZ3dJaXdOQ2lBZ0ltbGtJam9nSWpkbFlUYzBNekJoTFRrd01tTXRNemhtTlMwNU1tVTBMV1U0WmpOaFpqazFNams0T0NJc0RRb2dJQ0poYVdRaU9pQWlNaUlzRFFvZ0lDSnVaWFFpT2lBaWQzTWlMQTBLSUNBaWRIbHdaU0k2SUNKdWIyNWxJaXdOQ2lBZ0ltaHZjM1FpT2lBaUlpd05DaUFnSW5CaGRHZ2lPaUFpTHlJc0RRb2dJQ0owYkhNaU9pQWlJZzBLZlE9PQp2bWVzczovL2V3MEtJQ0FpZGlJNklDSXlJaXdOQ2lBZ0luQnpJam9nSXVhWHBlYWNyT0tYaGtGWFV5QXdNaUJPWlhSbWJHbDRJREhsZ0kzbmpvY2lMQTBLSUNBaVlXUmtJam9nSW1Fek1HSXlaVGM1WldSbU9EYzRNREpqTG1GM2MyZHNiMkpoYkdGalkyVnNaWEpoZEc5eUxtTnZiU0lzRFFvZ0lDSndiM0owSWpvZ0lqZ3dJaXdOQ2lBZ0ltbGtJam9nSWpkbFlUYzBNekJoTFRrd01tTXRNemhtTlMwNU1tVTBMV1U0WmpOaFpqazFNams0T0NJc0RRb2dJQ0poYVdRaU9pQWlNaUlzRFFvZ0lDSnVaWFFpT2lBaWQzTWlMQTBLSUNBaWRIbHdaU0k2SUNKdWIyNWxJaXdOQ2lBZ0ltaHZjM1FpT2lBaUlpd05DaUFnSW5CaGRHZ2lPaUFpTHlJc0RRb2dJQ0owYkhNaU9pQWlJZzBLZlE9PQp2bWVzczovL2V3MEtJQ0FpZGlJNklDSXlJaXdOQ2lBZ0luQnpJam9nSXVlK2p1V2J2ZUtYaGxWQklEQXhJT21ybU9tQW55QXg1WUNONTQ2SElpd05DaUFnSW1Ga1pDSTZJQ0p6YUdGdVoyaGhhUzFqYmpJdGJtRjBMbUpoYVhCcFlXOHVaR1VpTEEwS0lDQWljRzl5ZENJNklDSXlOVEEwTmlJc0RRb2dJQ0pwWkNJNklDSTNaV0UzTkRNd1lTMDVNREpqTFRNNFpqVXRPVEpsTkMxbE9HWXpZV1k1TlRJNU9EZ2lMQTBLSUNBaVlXbGtJam9nSWpJaUxBMEtJQ0FpYm1WMElqb2dJbmR6SWl3TkNpQWdJblI1Y0dVaU9pQWlibTl1WlNJc0RRb2dJQ0pvYjNOMElqb2dJbUZxWVhndVlYTndibVYwWTJSdUxtTnZiU0lzRFFvZ0lDSndZWFJvSWpvZ0lpOGlMQTBLSUNBaWRHeHpJam9nSWlJTkNuMD0Kdm1lc3M6Ly9ldzBLSUNBaWRpSTZJQ0l5SWl3TkNpQWdJbkJ6SWpvZ0l1ZStqdVdidmVLWGhsVkJJREF5SU9tcm1PbUFueUF4NVlDTjU0NkhJaXdOQ2lBZ0ltRmtaQ0k2SUNKemFHRnVaMmhoYVMxamJqSXRibUYwTG1KaGFYQnBZVzh1WkdVaUxBMEtJQ0FpY0c5eWRDSTZJQ0l5TlRBME55SXNEUW9nSUNKcFpDSTZJQ0kzWldFM05ETXdZUzA1TURKakxUTTRaalV0T1RKbE5DMWxPR1l6WVdZNU5USTVPRGdpTEEwS0lDQWlZV2xrSWpvZ0lqSWlMQTBLSUNBaWJtVjBJam9nSW5keklpd05DaUFnSW5SNWNHVWlPaUFpYm05dVpTSXNEUW9nSUNKb2IzTjBJam9nSW1GcVlYZ3VZWE53Ym1WMFkyUnVMbU52YlNJc0RRb2dJQ0p3WVhSb0lqb2dJaThpTEEwS0lDQWlkR3h6SWpvZ0lpSU5DbjA9CnZtZXNzOi8vZXcwS0lDQWlkaUk2SUNJeUlpd05DaUFnSW5Ceklqb2dJdW1tbWVhNHIrS1hoa0ZYVXlBd01TQk9aWFJtYkdsNElESGxnSTNuam9jaUxBMEtJQ0FpWVdSa0lqb2dJa3d4TFdGM2N5MW9heTB3TVM1aVlXbHdhV0Z2TG1SbElpd05DaUFnSW5CdmNuUWlPaUFpT0RBaUxBMEtJQ0FpYVdRaU9pQWlOMlZoTnpRek1HRXRPVEF5WXkwek9HWTFMVGt5WlRRdFpUaG1NMkZtT1RVeU9UZzRJaXdOQ2lBZ0ltRnBaQ0k2SUNJeUlpd05DaUFnSW01bGRDSTZJQ0ozY3lJc0RRb2dJQ0owZVhCbElqb2dJbTV2Ym1VaUxBMEtJQ0FpYUc5emRDSTZJQ0lpTEEwS0lDQWljR0YwYUNJNklDSXZJaXdOQ2lBZ0luUnNjeUk2SUNJaURRcDkKdm1lc3M6Ly9ldzBLSUNBaWRpSTZJQ0l5SWl3TkNpQWdJbkJ6SWpvZ0l1bW1tZWE0citLWGhrRlhVeUF3TWlCT1pYUm1iR2w0SURIbGdJM25qb2NpTEEwS0lDQWlZV1JrSWpvZ0lrd3hMV0YzY3kxb2F5MHdNaTVpWVdsd2FXRnZMbVJsSWl3TkNpQWdJbkJ2Y25RaU9pQWlPREFpTEEwS0lDQWlhV1FpT2lBaU4yVmhOelF6TUdFdE9UQXlZeTB6T0dZMUxUa3laVFF0WlRobU0yRm1PVFV5T1RnNElpd05DaUFnSW1GcFpDSTZJQ0l5SWl3TkNpQWdJbTVsZENJNklDSjNjeUlzRFFvZ0lDSjBlWEJsSWpvZ0ltNXZibVVpTEEwS0lDQWlhRzl6ZENJNklDSWlMQTBLSUNBaWNHRjBhQ0k2SUNJdklpd05DaUFnSW5Sc2N5STZJQ0lpRFFwOQp2bWVzczovL2V3MEtJQ0FpZGlJNklDSXlJaXdOQ2lBZ0luQnpJam9nSXVtbW1lYTRyK0tYaGtGWFV5QXdNeUJPWlhSbWJHbDRJREhsZ0kzbmpvY2lMQTBLSUNBaVlXUmtJam9nSWt3eExXRjNjeTFvYXkwd015NWlZV2x3YVdGdkxtUmxJaXdOQ2lBZ0luQnZjblFpT2lBaU9EQWlMQTBLSUNBaWFXUWlPaUFpTjJWaE56UXpNR0V0T1RBeVl5MHpPR1kxTFRreVpUUXRaVGhtTTJGbU9UVXlPVGc0SWl3TkNpQWdJbUZwWkNJNklDSXlJaXdOQ2lBZ0ltNWxkQ0k2SUNKM2N5SXNEUW9nSUNKMGVYQmxJam9nSW01dmJtVWlMQTBLSUNBaWFHOXpkQ0k2SUNJaUxBMEtJQ0FpY0dGMGFDSTZJQ0l2SWl3TkNpQWdJblJzY3lJNklDSWlEUXA5CnZtZXNzOi8vZXcwS0lDQWlkaUk2SUNJeUlpd05DaUFnSW5Ceklqb2dJdW1tbWVhNHIrS1hoa0ZYVXlBd05DQk9aWFJtYkdsNElESGxnSTNuam9jaUxBMEtJQ0FpWVdSa0lqb2dJa3d4TFdGM2N5MW9heTB3TkM1aVlXbHdhV0Z2TG1SbElpd05DaUFnSW5CdmNuUWlPaUFpT0RBaUxBMEtJQ0FpYVdRaU9pQWlOMlZoTnpRek1HRXRPVEF5WXkwek9HWTFMVGt5WlRRdFpUaG1NMkZtT1RVeU9UZzRJaXdOQ2lBZ0ltRnBaQ0k2SUNJeUlpd05DaUFnSW01bGRDSTZJQ0ozY3lJc0RRb2dJQ0owZVhCbElqb2dJbTV2Ym1VaUxBMEtJQ0FpYUc5emRDSTZJQ0lpTEEwS0lDQWljR0YwYUNJNklDSXZJaXdOQ2lBZ0luUnNjeUk2SUNJaURRcDkKdm1lc3M6Ly9ldzBLSUNBaWRpSTZJQ0l5SWl3TkNpQWdJbkJ6SWpvZ0l1V0ZyT2ViaXVXUHNPYTV2a2hwVG1WME1sdDRNSHptbDZCVFRFRmRRRGd3VFdKd2N5QXRJRll5VW1GNUlpd05DaUFnSW1Ga1pDSTZJQ0ppY2kxamRXTnRMV1p5WldVeExtWnVaaTFuWm5jdGJtOWtaUzUwYjNBaUxBMEtJQ0FpY0c5eWRDSTZJQ0kxTURJd05DSXNEUW9nSUNKcFpDSTZJQ0l3TnpneU9UaGpZeTAzTlRrNUxUTTRORGN0T0dSbFlTMDROV0kwT1dNM1pqWTJNMlVpTEEwS0lDQWlZV2xrSWpvZ0lqQWlMQTBLSUNBaWJtVjBJam9nSW5SamNDSXNEUW9nSUNKMGVYQmxJam9nSW01dmJtVWlMQTBLSUNBaWFHOXpkQ0k2SUNJaUxBMEtJQ0FpY0dGMGFDSTZJQ0lpTEEwS0lDQWlkR3h6SWpvZ0lpSU5DbjA9CnZtZXNzOi8vZXcwS0lDQWlkaUk2SUNJeUlpd05DaUFnSW5Ceklqb2dJdVdGck9lYml1YVdzT1dLb09XZG9VRmFXM2d3Zk9hWG9GTk1RVjFBT0RCTlluQnpJQzBnVmpKU1lYa2lMQTBLSUNBaVlXUmtJam9nSW1KeUxXTjFZMjB0Wm5KbFpURXVabTVtTFdkbWR5MXViMlJsTG5SdmNDSXNEUW9nSUNKd2IzSjBJam9nSWpVd01URTBJaXdOQ2lBZ0ltbGtJam9nSWpBM09ESTVPR05qTFRjMU9Ua3RNemcwTnkwNFpHVmhMVGcxWWpRNVl6ZG1Oall6WlNJc0RRb2dJQ0poYVdRaU9pQWlNQ0lzRFFvZ0lDSnVaWFFpT2lBaWRHTndJaXdOQ2lBZ0luUjVjR1VpT2lBaWJtOXVaU0lzRFFvZ0lDSm9iM04wSWpvZ0lpSXNEUW9nSUNKd1lYUm9Jam9nSWlJc0RRb2dJQ0owYkhNaU9pQWlJZzBLZlE9PQp2bWVzczovL2V3MEtJQ0FpZGlJNklDSXlJaXdOQ2lBZ0luQnpJam9nSXVXRnJPZWJpdWUranVXYnZWZEpTVnQ0TUh6bWw2QlRURUZkUURnd1RXSndjeUF0SUZZeVVtRjVJaXdOQ2lBZ0ltRmtaQ0k2SUNKaWNpMWpkV050TFdaeVpXVXhMbVp1WmkxblpuY3RibTlrWlM1MGIzQWlMQTBLSUNBaWNHOXlkQ0k2SUNJMU1ESXlOQ0lzRFFvZ0lDSnBaQ0k2SUNJd056Z3lPVGhqWXkwM05UazVMVE00TkRjdE9HUmxZUzA0TldJME9XTTNaalkyTTJVaUxBMEtJQ0FpWVdsa0lqb2dJakFpTEEwS0lDQWlibVYwSWpvZ0luUmpjQ0lzRFFvZ0lDSjBlWEJsSWpvZ0ltNXZibVVpTEEwS0lDQWlhRzl6ZENJNklDSWlMQTBLSUNBaWNHRjBhQ0k2SUNJaUxBMEtJQ0FpZEd4eklqb2dJaUlOQ24wPQp2bWVzczovL2V3MEtJQ0FpZGlJNklDSXlJaXdOQ2lBZ0luQnpJam9nSXVXRnJPZWJpdW1tbWVhNHIwRmFXM2d3Zk9hWG9GTk1RVjFBT0RCTlluQnpJQzBnVmpKU1lYa2lMQTBLSUNBaVlXUmtJam9nSW1KeUxXTjFZMjB0Wm5KbFpURXVabTVtTFdkbWR5MXViMlJsTG5SdmNDSXNEUW9nSUNKd2IzSjBJam9nSWpVd01UQTBJaXdOQ2lBZ0ltbGtJam9nSWpBM09ESTVPR05qTFRjMU9Ua3RNemcwTnkwNFpHVmhMVGcxWWpRNVl6ZG1Oall6WlNJc0RRb2dJQ0poYVdRaU9pQWlNQ0lzRFFvZ0lDSnVaWFFpT2lBaWRHTndJaXdOQ2lBZ0luUjVjR1VpT2lBaWJtOXVaU0lzRFFvZ0lDSm9iM04wSWpvZ0lpSXNEUW9nSUNKd1lYUm9Jam9nSWlJc0RRb2dJQ0owYkhNaU9pQWlJZzBLZlE9PQo=
+[Adblock Plus 2.0]
+! Title: 乘风 视频过滤规则
+! Version: 202307122
+! Expires: 1 day
+! Homepage: https://github.com/xinggsf/Adblock-Plus-Rule/issues
+
+! 屏蔽P2P
+yy.com,le.com##+js(nowebrtc)
+||tracker.$xhr,websocket,script,ping
+||p2p.$xhr,websocket,ping,domain=~huya.com|~binance.com
+
+v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
+!m.youku.com,v.youku.com##+js(nano-stb, r--,, 0.02)
+m.youku.com,v.youku.com##+js(m3u-prune,'',/^https:\/\/[\w\.]+ott\.cibntv\.net.+?\.m3u8\?/)
+atm.youku.com
+cad.youku.com
+@@||mmstat.com^$domain=youku.com
+||cibntv.net/youku/$media
+||valipl.cp31.ott.cibntv.net/$media
+!|https://static.youku.com/index/js/ikuAdapterNew.js
+||sealine.youku.com/yk/*callback=adpagesdk$script
+
+iqiyi.com##.black-screen[data-cupid="adblock-blackscreen"]
+iqiyi.com##div[data-adzone],#block-V
+iqiyi.com##+js(set, Object.prototype.parseXML, noopFunc)
+iqiyi.com##+js(set, Object.prototype.blackscreenDuration, 1)
+m.iqiyi.com##+js(set, Object.prototype.adPlayerId, '')
+||static.iqiyi.com/js/common/mars_v.js$script
+||iqiyi.com/videos/other/202$xmlhttprequest
+||71edge.com/videos/other/202$xmlhttprequest
+||iqiyipic.com/image/20*_100000$image
+apisgame.iqiyi.com
+static.g.iqiyi.com
+||ssports.iqiyi.com/json/shop/shopInfo
+||ssports.iqiyi.com/app/$media,object-subrequest
+show.ssports.com
+
+!v.qq.com###player .txp_zt_content
+v.qq.com##.quick_games.quick_item,div.card-wrap
+qq.com##.mod_ad, .txp_ad, div.l_qq_com, .txp-watermark, .txp_ad_link, .txp_zt_video, .adWrap, .iwan-wrapper
+qq.com#@#+js(nowebrtc)
+qq.com##+js(set,RTCPeerConnection,null)
+qq.com##+js(no-xhr-if,/trace\.|\/collect/)
+qq.com##+js(no-fetch-if,/trace\.|beacon\./)
+qq.com##+js(json-prune,ads ad.pause adList.item)
+!qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
+!qq.com##+js(aopr, Beacon.prototype.fail)
+@@||union.video.qq.com/fcgi-bin/$script,domain=qq.com
+cm.l.qq.com
+||l.qq.com/lview?
+||l.qq.com/livemsg?
+||mark.l.qq.com/fcgi-bin/get_video_mark_all?
+||gtimg.com/qqlive/
+||qzonestyle.gtimg.cn/qzone/biz/ac/comm/$script
+|https://imgcache.qq.com/qzone/biz/comm/js/qbs.js
+!||ssp.qq.com/static/web/websites/pcnewsplugin/sspad_$script
+new.qq.com##+js(set, SSPAd.prototype.loadAd, noopFunc)
+||news.ssp.qq.com/app
+miaozhen.com
+reachmax.cn
+scorecardresearch.com
+tencentmind.com
+xtgreat.com
+
+bilibili.com##.ad-report, .ad-floor
+bilibili.com##.gg-floor-module,#slide_ad,a[href^="//cm.bilibili.com"]
+||api.bilibili.com/x/web-show/res/loc?pf=$~script
+||hdslb.com/bfs/sycp/creative_img/$image
+cm.bilibili.com
+
+acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
+||aixifan.com/static/*/appGuide/
+
+cctv.com###bgAd_div
+!||imall.cctv.com/$subdocument
+bjcathay.com
+
+pptv.com##.advView-two,#p-mark
+synacast.com
+de.as.pptv.com
+||g.pptv.com/game/$subdocument
+||osswc.pplive.cn/cccms/$image
+
+||cmvideo.cn/v1/iflyad/delivery$media,domain=miguvideo.com
+! 风行网： fun.tv
+pub.funshion.com
+
+||relive.vodfile.m1905.com/video/qiantie202$media
+
+@@||tb.mgtv.com/sdk/*/ad-sdk.
+ad-survey.com
+||video.da.mgtv.com/$media
+||da.mgtv.com/mediafiles/wiad_creative/$image
+
+@@||js.tv.itc.cn/gg.seed.js
+||css.tv.itc.cn/m/img/player/dlBanner.$image
+||data.vod.itc.cn/*&prod=ad&$media
+||api.my.tv.sohu.com/wm/getads.do?
+||aty.sohu.com/
+adpushup.com
+||go.sohu.com/
+||tv.sohu.com/upload/csad/admaster/$image
+tv.sohu.com##.x-dl-shake.x-download-panel, #playerBar > div.area ~a
+17173.com###vjs-ad-on-pause
+||log1.17173.com/
+||17173.com/batch_show?ads=
+||17173.com/if/$script,subdocument
+
+le.com##+js(set, isAdLoaded, true)
+*/letv-gug/$media,object-subrequest,xhr
+||letvimg.com/$object,xhr
+||letvimg.com/*_gugwl/$image
+||js.letvcdn.com/*_banner_$script
+||banana.le.com/
+adxvip.com
+behe.com
+biddingx.com
+cr-nielsen.com
+fancyapi.com
+ipinyou.com
+kejet.net
+||jd.com/$domain=le.com
+ulmdb.cn
+xelements.cn
+yoyi.com.cn
+zhiziyun.com
+le.com##.min_pause_img
+! 视频水印
+le.com##.hv_wm_logo
+
+cctv.com,www.douyu.com##+js(aeld,/visibilitychange|pagehide/)
+douyu.com##+js(set, RTCPeerConnection.prototype.addTrack, noopFunc)
+||douyucdn.cn/adxdsp/$image
+wan.douyu.com
+douyu.com##.Title-ad, .DropMenuList-ad, .DropPane-ad
+douyu.com,huya.com##a[href^="https://g.wan."]
+huya.com###hy-ad,#hy-ab,#huya-ab
+g.huya.com
+||msstatic.com/huya/*/p2plib.js$script
+
+www.ted.com##.gm-fp-body .justify-center.tracking-tightest
+||onetrust.
+litix.io
+||stripe.com^$script,domain=~nextdns.io|~obsidian.md
+
+youtube.com##.masthead-ad-control, .ad-div, .pyv-afc-ads-container, #promotion-shelf
+*_ad_$media,domain=youtube.com,3p
+youtube.com##ytd-video-masthead-ad-advertiser-info-renderer, ytm-promoted-sparkles-web-renderer, ytd-promoted-sparkles-web-renderer
+youtube.com,youtube-nocookie.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube.com,youtube-nocookie.com##+js(set, ytInitialPlayerResponse.adPlacements, undefined)
+youtube.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefined)
+||youtube.com/pagead/
+||youtube.com/ptracking?
+||google.*/pagead/
+||gstatic.com/shopping?
+
+*/preroll/$media,domain=91porn.com
+91p20.space
+waust.at
+
+||btsow.mom/app/jav$image
+jads.co
+|https://tellme.pw/go/jav$popup
+|https://$script,subdocument,popup,3p,domain=btsow.mom|dandanzan10.top|dandanzan.*|nunuyingyuan.com|nunuyy5.org|rarbgprx.org
+!btsow.mom##+js(aeld, click, popunder)
+!btsow.*##body>div[id]:last-child>a:only-child
+! 2022 https://rarbgprx.org
+statsy.net
+||dyncdn.me/static/20/js/showads.js$script
+||dyncdn.me/static/20/js/expla$script
+
+age.tv,agemys.net##+js(noeval-if, devtoolsDetector)
+||toutiaoimg.com/origin/$image,domain=agemys.net|acgndmku.com|subaibaiys.com
+
+dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,RTCPeerConnection,null)
+dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,webkitRTCPeerConnection,null)
+dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,mozRTCPeerConnection,null)
+dandanzan.com,dandanzan10.top,nunuyy5.org#@#+js(nowebrtc)
+dandanzan.com,dandanzan10.top,nunuyy5.org##.gm-fp-body video:style(max-height:100%!important)
+wpadmngr.com
+|https://static.cloudflareinsights.com/beacon.min.js^$xhr,script
+||nunuyingyuan.tk/serviceworker.js^$script
+||nunuyy.cf/serviceworker.js^$script
+
+www.sbdm.net##.dplayer-web-fullscreen-fix .billhao-head-image, .dplayer-web-fullscreen-fix #topnav
+aqours.today
+chushoushijian.cn
+z4a.net
+www.sbdm.net##.ads_all:remove()
+|https://dd-static.jd.com/ddimg/jfs/t1/173245/15/28822/346324/62fcb4b0Eb437d047/136a1e04890320b8.jpg$image,domain=subaibaiys.com
+yatu.tv##.dplayer-web-fullscreen-fix #tburl,#loadtop,[id^=myas],#myds1,#daohang
+yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
+onenews.vip
+quickapp.cn
+v4dwkcv.com
+weizhenwx.com
+youle55.com
+||www.yatu.tv:2082/image/*.gif^$image
+||www.yatu.tv:2082/m/images/$image
+
+||nooen.com^$popup
+bixinlive.com
+orgaorg.com
+quandangdang.net
+stgowan.com
