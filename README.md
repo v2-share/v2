@@ -35,32 +35,6 @@ static.g.iqiyi.com
 ||ssports.iqiyi.com/app/$media,object-subrequest
 show.ssports.com
 
-!v.qq.com###player .txp_zt_content
-v.qq.com##.quick_games.quick_item,div.card-wrap
-qq.com##.mod_ad, .txp_ad, div.l_qq_com, .txp-watermark, .txp_ad_link, .txp_zt_video, .adWrap, .iwan-wrapper
-qq.com#@#+js(nowebrtc)
-qq.com##+js(set,RTCPeerConnection,null)
-qq.com##+js(no-xhr-if,/trace\.|\/collect/)
-qq.com##+js(no-fetch-if,/trace\.|beacon\./)
-qq.com##+js(json-prune,ads ad.pause adList.item)
-!qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
-!qq.com##+js(aopr, Beacon.prototype.fail)
-@@||union.video.qq.com/fcgi-bin/$script,domain=qq.com
-cm.l.qq.com
-||l.qq.com/lview?
-||l.qq.com/livemsg?
-||mark.l.qq.com/fcgi-bin/get_video_mark_all?
-||gtimg.com/qqlive/
-||qzonestyle.gtimg.cn/qzone/biz/ac/comm/$script
-|https://imgcache.qq.com/qzone/biz/comm/js/qbs.js
-!||ssp.qq.com/static/web/websites/pcnewsplugin/sspad_$script
-new.qq.com##+js(set, SSPAd.prototype.loadAd, noopFunc)
-||news.ssp.qq.com/app
-miaozhen.com
-reachmax.cn
-scorecardresearch.com
-tencentmind.com
-xtgreat.com
 
 bilibili.com##.ad-report, .ad-floor
 bilibili.com##.gg-floor-module,#slide_ad,a[href^="//cm.bilibili.com"]
